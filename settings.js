@@ -13,10 +13,10 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['Your Number']
-global.premium = ['Your Number']
-global.ownernomer = 'Your Number'
-global.ownername = 'ABU'
+global.owner = ['918111869080']
+global.premium = ['971522076887']
+global.ownernomer = '918111869080'
+global.ownername = 'SHAFU'
 global.botname = 'Alena-MD'
 global.footer = '©your Footer.'
 global.ig = 'https://github.com/Afx-Abu'
